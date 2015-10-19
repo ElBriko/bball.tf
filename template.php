@@ -35,7 +35,7 @@
         <div class="header">
             <br>
             <img class="media-object img-rounded img-responsive" src="img/banner2.png">
-            <hr style="border-color:#272727;">
+            <hr>
             <ul class="nav nav-pills nav-justified">
                 <li class="active"><a href="news.php">News</a></li>
                 <li><a href="about.php">About</a></li>
@@ -52,7 +52,7 @@
 
         <div class="row container-fluid">
             <div class="col-md-9">
-                SOME CONTENT WILL BE HERE
+                SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>
             </div>
 
             <div class="col-md-3 sidebar" align="center">
@@ -71,18 +71,17 @@
 
             </div>
         </div>
-        <hr style="border-color:#272727;">
-        <div id="footer">
-            <div class="container">
-                <div>
-                    <i>
+        
+        <div class="footer">
+            
+                
+                    
 								This page is powered by <a href="http://steampowered.com">Steam</a> and <a href="https://github.com/SmItH197/SteamAuthentication">SteamAuthentication</a>
-							</i>
-                </div>
+							
+                
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
                 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
             </div>
-        </div>
 
     </div>
 </body>
