@@ -71,19 +71,9 @@
 
             </div>
         </div>
-<<<<<<< HEAD
-        
+                
         <div class="footer">
             
-                
-                    
-=======
-        <hr style="border-color:#272727;">
-        <div id="footer">
-            <div class="pull-right">
-                <div>
-                    <i>
->>>>>>> refs/remotes/llamadillo/master
 								This page is powered by <a href="http://steampowered.com">Steam</a> and <a href="https://github.com/SmItH197/SteamAuthentication">SteamAuthentication</a>
 							
                 
