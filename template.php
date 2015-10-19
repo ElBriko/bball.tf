@@ -52,7 +52,83 @@
 
         <div class="row container">
             <div class="col-md-9">
-                SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>SOME CONTENT WILL BE HERE<br>
+                SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>SOME CONTENT WILL BE HERE
+                <br>
             </div>
 
             <div class="col-md-3 sidebar" align="center">
@@ -71,15 +147,15 @@
 
             </div>
         </div>
-                
+
         <div class="footer">
-            
-								This page is powered by <a href="http://steampowered.com">Steam</a> and <a href="https://github.com/SmItH197/SteamAuthentication">SteamAuthentication</a>
-							
-                
-                <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-                <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-            </div>
+
+            This page is powered by <a href="http://steampowered.com">Steam</a> and <a href="https://github.com/SmItH197/SteamAuthentication">SteamAuthentication</a>
+
+
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+        </div>
 
     </div>
 </body>
