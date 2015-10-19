@@ -1,3 +1,3 @@
 # bball.tf
 
-This is a test.
+Template pages for bball.tf league website.
