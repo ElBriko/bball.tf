@@ -29,5 +29,6 @@ a:hover{
 }
 .footer {
 	height: 60px;
-	clear:both;
+	clear: both;
+	width: 100%;
 }

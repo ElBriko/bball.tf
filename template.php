@@ -50,7 +50,7 @@
         <br>
 
 
-        <div class="row">
+        <div class="row container">
             <div class="col-md-9">
                 SOME CONTENT WILL BE HERE
             </div>
@@ -73,7 +73,7 @@
         </div>
         <hr style="border-color:#272727;">
         <div id="footer">
-            <div class="container pull-right">
+            <div class="pull-right">
                 <div>
                     <i>
 								This page is powered by <a href="http://steampowered.com">Steam</a> and <a href="https://github.com/SmItH197/SteamAuthentication">SteamAuthentication</a>
