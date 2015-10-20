@@ -1,5 +1,5 @@
 # bball.tf
 
-Template pages for bball.tf league website.
+Template design #1
 
-http://ultiduo.twistedduck.com/bball/news.php
+Foundation & Sass used
