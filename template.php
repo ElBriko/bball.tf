@@ -57,78 +57,7 @@
                 <br>SOME CONTENT WILL BE HERE
                 <br>SOME CONTENT WILL BE HERE
                 <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>SOME CONTENT WILL BE HERE
-                <br>
+
             </div>
 
             <div class="col-md-3 sidebar" align="center">
