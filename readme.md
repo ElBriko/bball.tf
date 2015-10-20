@@ -2,4 +2,4 @@
 
 Template design #1
 
-Foundation & Sass used
+Materialize design
