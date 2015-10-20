@@ -148,7 +148,7 @@
             </div>
         </div>
 
-        <div class="footer">
+        <div class="footer row container">
 
             This page is powered by <a href="http://steampowered.com">Steam</a> and <a href="https://github.com/SmItH197/SteamAuthentication">SteamAuthentication</a>
 
