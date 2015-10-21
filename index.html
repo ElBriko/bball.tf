@@ -32,16 +32,11 @@
         <div class="row header-text">
             <div class="col s12 hero-text">bball.tf</div>
             <div class="col s12 subheader-text">A place for bball lovers to play on tournaments, and much more!</div>
+            <div class="col s12 find-out-button"><a href="#index-banner">Find out more!</a></div>
         </div>
 
 
-
     </div>
-
-
-
-
-
 
 
     <div class="section no-pad-bot" id="index-banner">
@@ -145,6 +140,20 @@
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="../../bin/materialize.js"></script>
     <script src="js/init.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/creative.js"></script>
+
+    <script src="https://github.com/kswedberg/jquery-smooth-scroll/blob/master/jquery.smooth-scroll.min.js"></script>
+    <script>
+        $('.smooth').on('click', function () {
+            $.smoothScroll({
+                scrollElement: $('body'),
+                scrollTarget: '#' + this.id
+            });
+
+            return false;
+        });
+    </script>
 
 </body>
 
