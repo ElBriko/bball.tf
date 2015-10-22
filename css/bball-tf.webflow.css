@@ -1,6 +1,6 @@
 body {
-    background-image: -webkit-radial-gradient(1% -44%, circle, #a95682, #a95682 5%, #e67e22 50%, white 93%);
-    background-image: radial-gradient(circle at 1% -44%, #a95682, #a95682 5%, #e67e22 50%, white 93%);
+    background: -webkit-radial-gradient(1% -44%, circle, #a95682, #a95682 5%, #e67e22 50%, white 93%) fixed;
+    background: radial-gradient(circle at 1% -44%, #a95682, #a95682 5%, #e67e22 50%, white 93%) fixed;
   font-family: Lato, sans-serif;
   color: white;
   font-size: 16px;
@@ -163,6 +163,7 @@ body {
 .content {
     padding-top: 10px;
     padding-bottom: 10px;
+}
 html.w-mod-js *[data-ix="navbar-appear"] {
   display: block;
   opacity: 0;
