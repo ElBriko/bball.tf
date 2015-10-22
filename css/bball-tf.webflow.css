@@ -1,0 +1,135 @@
+body {
+  background-color: rgba(0, 0, 0, 0.1);
+  font-family: Lato, sans-serif;
+  color: white;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  text-align: center;
+}
+.navigation-bar {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  background-color: transparent;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+}
+.navbar-logo {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 5px;
+}
+.hero-section.centered {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  padding-top: 8%;
+  padding-bottom: 6%;
+  background-image: url('../images/best-backgrounds-9-background-background-and-wallpaper.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.hero-heading {
+  margin-bottom: 30px;
+  font-size: 120px;
+  line-height: 120px;
+  font-weight: 300;
+}
+.hero-subheader {
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 300;
+}
+.video-background {
+  position: relative;
+  right: 50%;
+  bottom: 456px;
+  display: block;
+}
+.nav-link {
+  color: white;
+  text-decoration: none;
+}
+.nav-inside {
+  border-bottom: 2px solid rgba(163, 163, 163, 0.32);
+}
+.section {
+  padding: 80px 10px;
+}
+.sign-in-image {
+  padding: 20px;
+}
+.white-box {
+  padding: 15px;
+  border: 1px solid #f5dd90;
+  -webkit-transition: all 100ms ease;
+  transition: all 100ms ease;
+}
+.white-box:hover {
+  background-color: rgba(247, 146, 5, 0.25);
+}
+.grid-image {
+  display: block;
+  width: 35%;
+  margin: 20px auto;
+  padding: 20px;
+  border: 10px solid white;
+  border-radius: 50%;
+  background-color: #f89406;
+  box-shadow: #f89406 0px 0px 1px 1px;
+}
+.icons-heading {
+  color: #676770;
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 300;
+}
+.icons-subheading {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #676770;
+}
+.footer {
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #e67e22;
+}
+html.w-mod-js *[data-ix="navbar-appear"] {
+  display: block;
+  opacity: 0;
+}
+@media (max-width: 991px) {
+  .hero-section.centered {
+    padding-top: 20%;
+    padding-bottom: 20%;
+  }
+  .video-background {
+    position: absolute;
+    right: 50%;
+    bottom: 359px;
+  }
+}
+@media (max-width: 767px) {
+  .white-box {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+@media (max-width: 479px) {
+  .hero-heading {
+    font-size: 100px;
+  }
+  .hero-subheader {
+    font-size: 25px;
+  }
+}
+
