@@ -1,5 +1,6 @@
 body {
-  background-color: rgba(0, 0, 0, 0.1);
+    background-image: -webkit-radial-gradient(1% -44%, circle, #a95682, #a95682 5%, #e67e22 50%, white 93%);
+    background-image: radial-gradient(circle at 1% -44%, #a95682, #a95682 5%, #e67e22 50%, white 93%);
   font-family: Lato, sans-serif;
   color: white;
   font-size: 16px;
@@ -8,8 +9,8 @@ body {
   text-align: center;
 }
 .navigation-bar {
-  position: fixed;
-  left: 0px;
+    position: static;
+    left: 0px;
   top: 0px;
   right: 0px;
   background-color: transparent;
@@ -55,13 +56,14 @@ body {
   text-decoration: none;
 }
 .nav-inside {
-  border-bottom: 2px solid rgba(163, 163, 163, 0.32);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.1);
 }
 .section {
   padding: 80px 10px;
 }
 .sign-in-image {
   padding: 20px;
+    display: inline-block;
 }
 .white-box {
   padding: 15px;
@@ -100,8 +102,67 @@ body {
   bottom: 0px;
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #e67e22;
+    border-top: 2px solid rgba(0, 0, 0, 0.1);
 }
+.navcontainer {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    display: inline-block;
+    float: none;
+}
+.page-title-container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+}
+.content-section {
+    padding-top: 0px;
+    background-image: none;
+}
+.title-pages {
+    font-size: 100px;
+    line-height: 100px;
+    font-weight: 200;
+}
+.sidebar-block {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: #510;
+}
+.sidebar-section-title {
+    margin-bottom: 5px;
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: 300;
+}
+.sidebar-section-content {
+    margin-top: 5px;
+}
+.hr {
+    display: block;
+    border: 1px solid black;
+    border-radius: 50px;
+}
+.widget-paragraph {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.widget-list {
+    text-align: left;
+    list-style-type: square;
+}
+.widget-dates-date {
+    color: maroon;
+    font-weight: 900;
+}
+.content {
+    padding-top: 10px;
+    padding-bottom: 10px;
 html.w-mod-js *[data-ix="navbar-appear"] {
   display: block;
   opacity: 0;
