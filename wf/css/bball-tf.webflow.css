@@ -1,0 +1,260 @@
+body {
+    height: 100%;
+    font-family: Lato, sans-serif;
+    color: white;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+.navigation-bar {
+    position: static;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    background-color: transparent;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+}
+.navbar-logo {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 5px;
+}
+.hero-section.centered {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    padding-top: 8%;
+    padding-bottom: 6%;
+    background-image: url('../images/best-backgrounds-9-background-background-and-wallpaper.jpg');
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.hero-heading {
+    margin-bottom: 30px;
+    font-size: 120px;
+    line-height: 120px;
+    font-weight: 300;
+}
+.hero-subheader {
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: 300;
+}
+.video-background {
+    position: relative;
+    right: 50%;
+    bottom: 456px;
+    display: block;
+}
+.nav-link {
+    color: white;
+    text-decoration: none;
+}
+.nav-inside {
+    border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+}
+.section {
+    padding: 80px 10px;
+}
+.sign-in-image {
+    display: inline-block;
+    padding: 20px;
+}
+.white-box {
+    padding: 15px;
+    border: 1px solid #f5dd90;
+    -webkit-transition: all 100ms ease;
+    transition: all 100ms ease;
+}
+.white-box:hover {
+    background-color: rgba(247, 146, 5, 0.25);
+}
+.grid-image {
+    display: block;
+    width: 35%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 10px solid white;
+    border-radius: 50%;
+    background-color: #f89406;
+    box-shadow: #f89406 0px 0px 1px 1px;
+}
+.icons-heading {
+    color: #676770;
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: 300;
+}
+.icons-subheading {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #676770;
+}
+.footer {
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.navcontainer {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    display: inline-block;
+    float: none;
+}
+.page-title-container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.content-section {
+    padding-top: 0px;
+    background-image: none;
+}
+.title-pages {
+    font-size: 100px;
+    line-height: 100px;
+    font-weight: 200;
+    text-transform: uppercase;
+}
+.sidebar-block {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: #510;
+}
+.sidebar-section-title {
+    margin-bottom: 5px;
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+.sidebar-section-title.news-title {
+    display: block;
+    float: none;
+    font-size: 32px;
+    line-height: 32px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: none;
+}
+.sidebar-section-title.news-date {
+    display: inline-block;
+    float: right;
+    text-transform: none;
+}
+.sidebar-section-title.news-subheader {
+    float: left;
+    text-transform: none;
+}
+.sidebar-section-content {
+    margin-top: 5px;
+}
+.hr {
+    display: block;
+    clear: both;
+    border: 1px solid black;
+    border-radius: 50px;
+}
+.widget-paragraph {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: justify;
+}
+.widget-list {
+    text-align: left;
+    list-style-type: square;
+}
+.widget-dates-date {
+    color: maroon;
+    font-weight: 900;
+}
+.content {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.body-servers {
+    background-image: -webkit-radial-gradient(1% -44%, circle, #a95682, white 0%, #e67e22 1%, rgba(41, 8, 48, 0.97));
+    background-image: radial-gradient(circle at 1% -44%, #a95682, white 0%, #e67e22 1%, rgba(41, 8, 48, 0.97));
+}
+.body-news {
+    background-image: -webkit-radial-gradient(-87% -187%, circle, #e67e22 14%, #c0392b 81%);
+    background-image: radial-gradient(circle at -87% -187%, #e67e22 14%, #c0392b 81%);
+}
+.body-league {
+    background-image: -webkit-radial-gradient(-47% -170%, circle, #a8f5b7 3%, #0a202e);
+    background-image: radial-gradient(circle at -47% -170%, #a8f5b7 3%, #0a202e);
+}
+.tabs {
+    width: 50%;
+    background-color: rgba(255, 255, 255, 0.5);
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.tabs.w--current {
+    font-weight: 400;
+}
+.tabs.tab-1 {
+    border-top-left-radius: 5px;
+}
+.tabs.tab-1.w--current {
+    border-bottom-left-radius: 0px;
+}
+.tabs.tab-2 {
+    border-top-right-radius: 5px;
+}
+.tab-pane {
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.6);
+    text-align: left;
+}
+html.w-mod-js *[data-ix="navbar-appear"] {
+    display: block;
+    opacity: 0;
+}
+@media (max-width: 991px) {
+    .hero-section.centered {
+        padding-top: 20%;
+        padding-bottom: 20%;
+    }
+    .video-background {
+        position: absolute;
+        right: 50%;
+        bottom: 359px;
+    }
+    .margin-left {
+        display: none;
+    }
+    .margin-right {
+        display: none;
+    }
+}
+@media (max-width: 767px) {
+    .white-box {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
+@media (max-width: 479px) {
+    .hero-heading {
+        font-size: 100px;
+    }
+    .hero-subheader {
+        font-size: 25px;
+    }
+}
