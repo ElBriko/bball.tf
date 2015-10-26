@@ -1,29 +1,19 @@
+* {
+    margin: 0;
+}
 html {
     height: 100%;
 }
 body {
-<<<<<<< HEAD
     height: 100%;
-    background-image: -webkit-radial-gradient(1% -44%, circle, #a95682, #a95682 5%, #e67e22 50%, white 93%);
-    background-image: radial-gradient(circle at 1% -44%, #a95682, #a95682 5%, #e67e22 50%, white 93%);
+    background: -webkit-radial-gradient(1% -44%, circle, #a95682, #a95682 5%, #e67e22 50%, white 93%) fixed;
+    background: radial-gradient(circle at 1% -44%, #a95682, #a95682 5%, #e67e22 50%, white 93%) fixed;
     font-family: Lato, sans-serif;
     color: white;
     font-size: 16px;
     line-height: 20px;
     font-weight: 400;
     text-align: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-=======
-    background: -webkit-radial-gradient(1% -44%, circle, #a95682, #a95682 5%, #e67e22 50%, white 93%) fixed;
-    background: radial-gradient(circle at 1% -44%, #a95682, #a95682 5%, #e67e22 50%, white 93%) fixed;
-  font-family: Lato, sans-serif;
-  color: white;
-  font-size: 16px;
-  line-height: 20px;
-  font-weight: 400;
-  text-align: center;
->>>>>>> origin/bball.tf-design-1
 }
 .navigation-bar {
     position: static;
@@ -116,6 +106,22 @@ body {
     padding-top: 10px;
     padding-bottom: 10px;
     border-top: 2px solid rgba(0, 0, 0, 0.1);
+    height: 45px;
+}
+
+/*Sticky footer*/
+
+.page-wrapper {
+    min-height: 100%;
+    margin-bottom: -45px;
+}
+.page-wrapper:after {
+    content: "";
+    display: block;
+}
+.footer,
+.page-wrapper:after {
+    height: 45px;
 }
 .navcontainer {
     position: absolute;
@@ -171,6 +177,9 @@ body {
     float: left;
     text-transform: none;
 }
+.news-post {
+    text-align: left;
+}
 .sidebar-section-content {
     margin-top: 5px;
 }
@@ -193,7 +202,6 @@ body {
     font-weight: 900;
 }
 .content {
-<<<<<<< HEAD
     padding-top: 0px;
     padding-bottom: 0px;
 }
@@ -205,7 +213,6 @@ body {
     background-image: -webkit-radial-gradient(-87% -187%, circle, #e67e22 14%, #c0392b 81%);
     background-image: radial-gradient(circle at -87% -187%, #e67e22 14%, #c0392b 81%);
 }
-
 .body-league {
     background-image: -webkit-radial-gradient(-47% -170%, circle, #a8f5b7 3%, #0a202e);
     background-image: radial-gradient(circle at -47% -170%, #a8f5b7 3%, #0a202e);
@@ -236,10 +243,8 @@ body {
     border-bottom-right-radius: 5px;
     background-color: rgba(255, 255, 255, 0.6);
     text-align: left;
-=======
     padding-top: 10px;
     padding-bottom: 10px;
->>>>>>> origin/bball.tf-design-1
 }
 html.w-mod-js *[data-ix="navbar-appear"] {
     display: block;
