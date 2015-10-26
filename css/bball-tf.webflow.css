@@ -2,6 +2,7 @@ html {
     height: 100%;
 }
 body {
+<<<<<<< HEAD
     height: 100%;
     background-image: -webkit-radial-gradient(1% -44%, circle, #a95682, #a95682 5%, #e67e22 50%, white 93%);
     background-image: radial-gradient(circle at 1% -44%, #a95682, #a95682 5%, #e67e22 50%, white 93%);
@@ -13,6 +14,16 @@ body {
     text-align: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
+=======
+    background: -webkit-radial-gradient(1% -44%, circle, #a95682, #a95682 5%, #e67e22 50%, white 93%) fixed;
+    background: radial-gradient(circle at 1% -44%, #a95682, #a95682 5%, #e67e22 50%, white 93%) fixed;
+  font-family: Lato, sans-serif;
+  color: white;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  text-align: center;
+>>>>>>> origin/bball.tf-design-1
 }
 .navigation-bar {
     position: static;
@@ -182,6 +193,7 @@ body {
     font-weight: 900;
 }
 .content {
+<<<<<<< HEAD
     padding-top: 0px;
     padding-bottom: 0px;
 }
@@ -224,6 +236,10 @@ body {
     border-bottom-right-radius: 5px;
     background-color: rgba(255, 255, 255, 0.6);
     text-align: left;
+=======
+    padding-top: 10px;
+    padding-bottom: 10px;
+>>>>>>> origin/bball.tf-design-1
 }
 html.w-mod-js *[data-ix="navbar-appear"] {
     display: block;
