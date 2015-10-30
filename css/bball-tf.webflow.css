@@ -145,10 +145,11 @@ body {
     content: "";
     display: block;
 }
-.footer,
+
 .page-wrapper:after {
     height: 45px;
 }
+
 .navcontainer {
     position: absolute;
     left: 0px;
