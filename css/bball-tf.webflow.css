@@ -31,6 +31,32 @@ body {
     margin-left: auto;
     padding: 5px;
 }
+.navigation-bar {
+    margin: 0 auto;
+    list-style: none;
+    position: relative;
+    width: 960px;
+}
+.navigation-bare {
+    display: inline;
+}
+.navigation-bar a {
+    display: block;
+    float: left;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.navigation-bar a:hover {
+    color: white;
+}
+#magic-line {
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 100px;
+    height: 2px;
+    background: #fe4902;
+}
 .hero-section.centered {
     overflow-x: hidden;
     overflow-y: hidden;
