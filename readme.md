@@ -12,7 +12,7 @@ TODO:
 <li>Highlight where you are on the site.</li></ul>
 
 
-> Using Wiki for ToDo. <
+> Using Wiki for ToDo.
 
 
 
